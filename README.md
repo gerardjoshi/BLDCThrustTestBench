@@ -23,6 +23,6 @@ _If it states an error due to busy port or port already under use_, this means y
 Following above steps ensures the port is free and the data is directly fed into the logger.py file and saved as a csv.
 
 Once your csv is saved, the optional plotter file makes it a plot (**please `pip install seaborn` on your terminal to get the graph accurately or comment out `sns.set_style("darkgrid")` 
-and `import seaborn as sns` and uncomment `#plt.style.use("ggplot")` to get the plot working **)
+and `import seaborn as sns` and uncomment `#plt.style.use("ggplot")` to get the plot working**)
 
 Thank You
