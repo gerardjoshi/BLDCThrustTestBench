@@ -13,7 +13,7 @@ time **not both**
 The following steps ensure you get the log file as a _.csv_ smoothly:
 
 1. Delete any previous .csv files saved in the location
-2. **Do not ** run the python files before hand (but keep the code for **logger.py** open since the code has like a 5-10 second window before it starts logging)
+2. **DO not** run the python files before hand (but keep the code for **logger.py** open since the code has like a 5-10 second window before it starts logging)
 3. Plug in arduino first, and then turn on the power supply (12V) for the ESC
 4. Upload the Project code, **DO NOT open the serial monitor at all**.
 5. Once the code says uploaded, go to your python file and then run it
