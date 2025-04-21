@@ -1,11 +1,11 @@
-#Imp Points
+# Imp Points
 
-##During Calibration
+## During Calibration
 
 First ensure power supply to ESC is off, then upload arduino code to the board and then turn on the ESC's 12V power supply so that the first thing that hits the ESC is a 2000 pwm signal as 
 indicated in the .ino file
 
-##During Logging data
+## During Logging data
 
 You will face issues with saving the logs as a csv if the order of launching files aren't strictly followed since only one application (either laptop or arduino can access the port at the 
 time **not both**
