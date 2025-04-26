@@ -8,7 +8,7 @@ indicated in the .ino file
 ## During Logging data
 
 You will face issues with saving the logs as a csv if the order of launching files aren't strictly followed since only one application (either laptop or arduino can access the port at the 
-time **not both**
+time **not both** )
 
 The following steps ensure you get the log file as a _.csv_ smoothly:
 
